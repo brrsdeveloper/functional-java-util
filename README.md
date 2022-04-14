@@ -1,2 +1,2 @@
-# functional-java-util
+# java-utils
 Provide utility classes to develop with java
